@@ -1,0 +1,237 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:06
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 70px;
+font-style: normal;
+margin-left: 0px;
+}
+
+.icon-12:before {font-size: 12px; margin-right: 3px; margin-left: 8px;}
+.icon-24:before {font-size: 24px; margin-right: 3px; margin-left: 3px;}
+.icon-26:before {font-size: 26px; margin-right: 1px; margin-left: 0px;}
+.icon-36:before {font-size: 36px; margin-right: 9px; margin-left: 8px;}
+.icon-48:before {font-size: 48px; margin-right: 12px; margin-left: 8px;}
+
+.flaticon-2014-calendar-symbol-with-a-lightbulb:before { content: "\f100"; }
+.flaticon-2014-earth-day-on-april-4-calendar-page:before { content: "\f101"; }
+.flaticon-2014-february-calendar-page:before { content: "\f102"; }
+.flaticon-advance-calendar-page-button-with-right-arrow:before { content: "\f103"; }
+.flaticon-airplane-travel-day-on-page-with-number-4-of-a-calendar:before { content: "\f104"; }
+.flaticon-annual-calendar:before { content: "\f105"; }
+.flaticon-annual-calendar-1:before { content: "\f106"; }
+.flaticon-annual-calendar-page:before { content: "\f107"; }
+.flaticon-annual-calendar-symbol:before { content: "\f108"; }
+.flaticon-annual-calendar-variant:before { content: "\f109"; }
+.flaticon-approved-sign-on-calendar-page:before { content: "\f10a"; }
+.flaticon-april-14-calendar-page-day:before { content: "\f10b"; }
+.flaticon-april-4-of-2014-calendar-page-with-travel-bag-reminder-symbol:before { content: "\f10c"; }
+.flaticon-april-4-of-2014-event-calendar-page:before { content: "\f10d"; }
+.flaticon-august-18-daily-calendar-page-interface-symbol:before { content: "\f10e"; }
+.flaticon-ballet-dancer-on-calendar-page-to-remind-class-day:before { content: "\f10f"; }
+.flaticon-bell-on-calendar-page-of-day-4:before { content: "\f110"; }
+.flaticon-birthday-balloons-on-calendar-page:before { content: "\f111"; }
+.flaticon-birthday-giftbox-on-reminder-calendar-page:before { content: "\f112"; }
+.flaticon-birthday-reminder:before { content: "\f113"; }
+.flaticon-black-calendar-page:before { content: "\f114"; }
+.flaticon-blank-calendar-page-with-stripes:before { content: "\f115"; }
+.flaticon-boat-travel-date-daily-calendar-page-interface-symbol:before { content: "\f116"; }
+.flaticon-business-calendar:before { content: "\f117"; }
+.flaticon-business-calendar-page:before { content: "\f118"; }
+.flaticon-business-meeting-date-day-page-on-daily-calendar:before { content: "\f119"; }
+.flaticon-businessman-symbol-on-january-calendar-page:before { content: "\f11a"; }
+.flaticon-calculator-on-calendar-page:before { content: "\f11b"; }
+.flaticon-calendar:before { content: "\f11c"; }
+.flaticon-calendar-add-event-button-with-plus-sign:before { content: "\f11d"; }
+.flaticon-calendar-daily-page-on-day-10:before { content: "\f11e"; }
+.flaticon-calendar-daily-page-on-day-3:before { content: "\f11f"; }
+.flaticon-calendar-daily-page-on-day-4-of-month:before { content: "\f120"; }
+.flaticon-calendar-hanging-of-a-wall-with-a-cross-sign:before { content: "\f121"; }
+.flaticon-calendar-in-a-circle-interface-symbol:before { content: "\f122"; }
+.flaticon-calendar-interface-symbol:before { content: "\f123"; }
+.flaticon-calendar-interface-symbol-on-day-21:before { content: "\f124"; }
+.flaticon-calendar-interface-symbol-tool:before { content: "\f125"; }
+.flaticon-calendar-interface-symbol-with-left-arrow-to-view-previous-days:before { content: "\f126"; }
+.flaticon-calendar-interface-symbol-with-minus-sign:before { content: "\f127"; }
+.flaticon-calendar-interface-symbol-with-printed-image-and-text-lines:before { content: "\f128"; }
+.flaticon-calendar-interface-symbol-with-printed-text-lines:before { content: "\f129"; }
+.flaticon-calendar-interface-symbol-with-squares-in-rounded-rectangular-shape-with-spring-on-top-border:before { content: "\f12a"; }
+.flaticon-calendar-of-squares:before { content: "\f12b"; }
+.flaticon-calendar-on-day-17:before { content: "\f12c"; }
+.flaticon-calendar-on-day-6-interface-symbol-of-rounded-square-black-spring-tool:before { content: "\f12d"; }
+.flaticon-calendar-page-of-day-25:before { content: "\f12e"; }
+.flaticon-calendar-page-of-day-25-1:before { content: "\f12f"; }
+.flaticon-calendar-page-of-day-27-interface-symbol:before { content: "\f130"; }
+.flaticon-calendar-page-of-day-29:before { content: "\f131"; }
+.flaticon-calendar-page-of-day-6-of-a-month:before { content: "\f132"; }
+.flaticon-calendar-page-of-day-8:before { content: "\f133"; }
+.flaticon-calendar-page-on-day-2:before { content: "\f134"; }
+.flaticon-calendar-page-on-day-2-1:before { content: "\f135"; }
+.flaticon-calendar-page-on-day-24:before { content: "\f136"; }
+.flaticon-calendar-page-on-day-25:before { content: "\f137"; }
+.flaticon-calendar-page-on-day-26:before { content: "\f138"; }
+.flaticon-calendar-page-on-day-5:before { content: "\f139"; }
+.flaticon-calendar-page-on-day-7:before { content: "\f13a"; }
+.flaticon-calendar-page-on-day-7-1:before { content: "\f13b"; }
+.flaticon-calendar-page-on-day-six:before { content: "\f13c"; }
+.flaticon-calendar-page-with-a-cross-sign:before { content: "\f13d"; }
+.flaticon-calendar-page-with-christmas-bells-on-day-25:before { content: "\f13e"; }
+.flaticon-calendar-page-with-circular-clock-symbol:before { content: "\f13f"; }
+.flaticon-calendar-page-with-list:before { content: "\f140"; }
+.flaticon-calendar-page-with-many-squares:before { content: "\f141"; }
+.flaticon-calendar-page-with-text-lines:before { content: "\f142"; }
+.flaticon-calendar-page-with-traffic-cone-symbol:before { content: "\f143"; }
+.flaticon-calendar-page-with-upper-spring:before { content: "\f144"; }
+.flaticon-calendar-spring-and-squares-interface-symbol:before { content: "\f145"; }
+.flaticon-calendar-square-page-outline-with-spring-on-top-border:before { content: "\f146"; }
+.flaticon-calendar-symbol-variant:before { content: "\f147"; }
+.flaticon-calendar-tool:before { content: "\f148"; }
+.flaticon-calendar-tool-for-time-organization:before { content: "\f149"; }
+.flaticon-calendar-tool-interface-symbol-for-time-administration-and-organization:before { content: "\f14a"; }
+.flaticon-calendar-tool-variant-for-time-administration:before { content: "\f14b"; }
+.flaticon-calendar-with-squares:before { content: "\f14c"; }
+.flaticon-calendar-with-stats-infographic:before { content: "\f14d"; }
+.flaticon-calendar-with-three-rotatory-areas-on-february-1-of-2014:before { content: "\f14e"; }
+.flaticon-chef-day-on-calendar:before { content: "\f14f"; }
+.flaticon-chess-date-day-calendar-page:before { content: "\f150"; }
+.flaticon-cinema-date-day-calendar-page:before { content: "\f151"; }
+.flaticon-circular-calendar-symbol-variant:before { content: "\f152"; }
+.flaticon-circular-daily-calendar-page-on-day-6:before { content: "\f153"; }
+.flaticon-city-day-reminder-on-calendar-page:before { content: "\f154"; }
+.flaticon-closed-day-reminder-interface-symbol-of-hanging-calendar-page:before { content: "\f155"; }
+.flaticon-cloudy-day-calendar-interface-symbol:before { content: "\f156"; }
+.flaticon-coffee-date-day-reminder-calendar-page:before { content: "\f157"; }
+.flaticon-credit-card-day-reminder-calendar-interface-symbol:before { content: "\f158"; }
+.flaticon-daily-calendar-of-day-9-in-rounded-black-square-page:before { content: "\f159"; }
+.flaticon-daily-calendar-on-page-of-day-6:before { content: "\f15a"; }
+.flaticon-daily-calendar-page-of-day-7-interface-symbol:before { content: "\f15b"; }
+.flaticon-daily-calendar-page-of-june-6:before { content: "\f15c"; }
+.flaticon-daily-calendar-page-on-day-22:before { content: "\f15d"; }
+.flaticon-daily-calendar-page-on-day-23:before { content: "\f15e"; }
+.flaticon-daily-calendar-page-on-january-11:before { content: "\f15f"; }
+.flaticon-date-day-with-architect-calendar-reminder-to-house-construction-project-development:before { content: "\f160"; }
+.flaticon-day-2-calendar-page-interface-symbol-variant:before { content: "\f161"; }
+.flaticon-day-25-on-daily-calendar:before { content: "\f162"; }
+.flaticon-day-28-on-hanging-calendar-page:before { content: "\f163"; }
+.flaticon-day-30-on-hanging-square-black-calendar-page:before { content: "\f164"; }
+.flaticon-day-6-on-calendar-page:before { content: "\f165"; }
+.flaticon-day-to-plant-a-tree-reminder-daily-calendar-page-interface-symbol:before { content: "\f166"; }
+.flaticon-delete-calendar-button-interface-symbol-with-a-cross:before { content: "\f167"; }
+.flaticon-dentist-date-day-reminder-calendar-page-interface-symbol:before { content: "\f168"; }
+.flaticon-discounts-percentage-label-on-calendar-daily-page:before { content: "\f169"; }
+.flaticon-edit-calendar-interface-symbol:before { content: "\f16a"; }
+.flaticon-email-envelope-on-a-calendar:before { content: "\f16b"; }
+.flaticon-engagement-ring-reminder-january-day-on-calendar-interface-symbol:before { content: "\f16c"; }
+.flaticon-exclamation-alert-sign-on-reminder-daily-calendar-page:before { content: "\f16d"; }
+.flaticon-fabric-visit-date-day-reminder-interface-symbol:before { content: "\f16e"; }
+.flaticon-february-12-calendar-page:before { content: "\f16f"; }
+.flaticon-fireworks-on-event-day-reminder-calendar-page-of-interface:before { content: "\f170"; }
+.flaticon-first-annual-day-calendar-page-interface-symbol:before { content: "\f171"; }
+.flaticon-first-daily-calendar-page-interface-symbol-with-number-1:before { content: "\f172"; }
+.flaticon-flamenco-spectacle-day-calendar-reminder-page:before { content: "\f173"; }
+.flaticon-friday-daily-calendar-page:before { content: "\f174"; }
+.flaticon-gear-on-mechanic-hanging-calendar-page:before { content: "\f175"; }
+.flaticon-giftbox-on-calendar-birthday-page:before { content: "\f176"; }
+.flaticon-graduation-day-reminder-calendar-page:before { content: "\f177"; }
+.flaticon-guitar-class-date-day-on-daily-calendar-page:before { content: "\f178"; }
+.flaticon-guitar-spectacle-day-on-daily-calendar-reminder-page:before { content: "\f179"; }
+.flaticon-hanging-calendar-interface-tool-symbol:before { content: "\f17a"; }
+.flaticon-happy-day-calendar-page:before { content: "\f17b"; }
+.flaticon-headphone-on-hanging-calendar-page:before { content: "\f17c"; }
+.flaticon-heart-on-daily-calendar-page:before { content: "\f17d"; }
+.flaticon-home-rest-day-calendar-page:before { content: "\f17e"; }
+.flaticon-important-calling-day-page-on-calendar:before { content: "\f17f"; }
+.flaticon-january-2014-calendar-symbol-for-interface:before { content: "\f180"; }
+.flaticon-january-2014-on-calendar:before { content: "\f181"; }
+.flaticon-january-2015-calendar-page:before { content: "\f182"; }
+.flaticon-january-calendar-page-on-payment-day-with-dollar-sign:before { content: "\f183"; }
+.flaticon-january-payment-day-calendar-page:before { content: "\f184"; }
+.flaticon-january-shopping-day-reminder-daily-calendar-page-of-interface-with-a-basket:before { content: "\f185"; }
+.flaticon-july-17-calendar-page:before { content: "\f186"; }
+.flaticon-june-1-daily-calendar-page-interface-symbol-with-thin-spring-and-straight-corners-angles:before { content: "\f187"; }
+.flaticon-june-16-daily-calendar-page:before { content: "\f188"; }
+.flaticon-june-calendar-interface-symbol:before { content: "\f189"; }
+.flaticon-june-calendar-monthly-page:before { content: "\f18a"; }
+.flaticon-june-calendar-page:before { content: "\f18b"; }
+.flaticon-june-calendar-page-1:before { content: "\f18c"; }
+.flaticon-karaoke-singing-party-or-radial-interview-date-day-on-calendar-page:before { content: "\f18d"; }
+.flaticon-legal-meeting-date-day-on-calendar:before { content: "\f18e"; }
+.flaticon-magnifier-on-calendar-page:before { content: "\f18f"; }
+.flaticon-march-13-calendar-page:before { content: "\f190"; }
+.flaticon-maternity-symbol-on-daily-calendar-interface-symbol:before { content: "\f191"; }
+.flaticon-may-15-calendar-page-interface-symbol:before { content: "\f192"; }
+.flaticon-may-calendar-page-rounded-square-symbol-for-interface:before { content: "\f193"; }
+.flaticon-may-calendar-page-symbol:before { content: "\f194"; }
+.flaticon-may-circular-black-calendar-page-interface-symbol:before { content: "\f195"; }
+.flaticon-mechanical-2014-calendar-hanging-of-a-nail:before { content: "\f196"; }
+.flaticon-medical-date-reminder-calendar-daily-page-interface-symbol-with-first-aid-cross:before { content: "\f197"; }
+.flaticon-monday-calendar-page:before { content: "\f198"; }
+.flaticon-month-with-increasing-incomes-calendar-page:before { content: "\f199"; }
+.flaticon-monthly-calendar:before { content: "\f19a"; }
+.flaticon-mountains-day-reminder-calendar-page-interface-symbol:before { content: "\f19b"; }
+.flaticon-moving-truck-on-reminder-calendar-page:before { content: "\f19c"; }
+.flaticon-music-spectacle-day-on-calendar-page:before { content: "\f19d"; }
+.flaticon-news-actualization-day-on-reminder-calendar-page:before { content: "\f19e"; }
+.flaticon-october-20-calendar-daily-page-interface-symbol-of-square-outline:before { content: "\f19f"; }
+.flaticon-open-day-calendar-page:before { content: "\f1a0"; }
+.flaticon-payment-january-calendar-page-reminder:before { content: "\f1a1"; }
+.flaticon-photographic-session-date-day-on-calendar-page:before { content: "\f1a2"; }
+.flaticon-photos-on-calendar-page:before { content: "\f1a3"; }
+.flaticon-planet-grid-on-calendar-page:before { content: "\f1a4"; }
+.flaticon-plug-reminder-symbol-on-calendar-page:before { content: "\f1a5"; }
+.flaticon-portfolio-on-reminder-daily-calendar-page-interface-symbol:before { content: "\f1a6"; }
+.flaticon-presentation-day-reminder-calendar-page:before { content: "\f1a7"; }
+.flaticon-rainy-season-on-calendar-page-symbol:before { content: "\f1a8"; }
+.flaticon-recycling-day-calendar-page:before { content: "\f1a9"; }
+.flaticon-recycling-day-calendar-reminder-page:before { content: "\f1aa"; }
+.flaticon-restaurant-date-calendar-page:before { content: "\f1ab"; }
+.flaticon-sad-face-on-calendar-page:before { content: "\f1ac"; }
+.flaticon-saturday-calendar-daily-page-interface-symbol:before { content: "\f1ad"; }
+.flaticon-september-29-calendar-page:before { content: "\f1ae"; }
+.flaticon-shopping-day-on-calendar-page:before { content: "\f1af"; }
+.flaticon-spa-date-day-on-calendar-page:before { content: "\f1b0"; }
+.flaticon-special-tv-program-day-reminder-calendar-page-interface-symbol:before { content: "\f1b1"; }
+.flaticon-spectacle-ticket-symbol-on-reminder-calendar-page:before { content: "\f1b2"; }
+.flaticon-sportive-practice-day-reminder-calendar-page-interface-symbol-with-a-dumbbell:before { content: "\f1b3"; }
+.flaticon-spring-calendar-rounded-symbol:before { content: "\f1b4"; }
+.flaticon-star-on-daily-calendar-page:before { content: "\f1b5"; }
+.flaticon-sunday-daily-calendar-page:before { content: "\f1b6"; }
+.flaticon-sunday-or-sun-day-calendar-page:before { content: "\f1b7"; }
+.flaticon-tablet-reminder-symbol-on-calendar-page:before { content: "\f1b8"; }
+.flaticon-thumb-down-on-january-calendar-page:before { content: "\f1b9"; }
+.flaticon-thumb-up-sign-on-daily-january-calendar-interface-symbol:before { content: "\f1ba"; }
+.flaticon-thursday-calendar-daily-page-interface-symbol:before { content: "\f1bb"; }
+.flaticon-trophy-on-daily-calendar-page-interface-symbol-of-the-contest-day:before { content: "\f1bc"; }
+.flaticon-tuesday-daily-calendar-page:before { content: "\f1bd"; }
+.flaticon-valentines-day-on-daily-calendar:before { content: "\f1be"; }
+.flaticon-verification-sign-on-calendar-page-interface-symbol-with-spring-top-border-on-rounded-rectangle-outline:before { content: "\f1bf"; }
+.flaticon-video-reminder-daily-calendar-interface-symbol:before { content: "\f1c0"; }
+.flaticon-wedding-anniversary-january-calendar-page:before { content: "\f1c1"; }
+.flaticon-wednesday-calendar-daily-page:before { content: "\f1c2"; }
+.flaticon-weekly-calendar-page-symbol:before { content: "\f1c3"; }
+.flaticon-wifi-installation-day-on-calendar-page:before { content: "\f1c4"; }
+.flaticon-winter-snow-day-of-christmas-interface-symbol:before { content: "\f1c5"; }
+.flaticon-woman-day-daily-calendar-page-of-march-8:before { content: "\f1c6"; }
+.flaticon-wristwatch-on-calendar-page:before { content: "\f1c7"; }

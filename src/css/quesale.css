@@ -1,0 +1,461 @@
+.preloader.pl-size-xl {
+    width: 109px;
+    height: 109px;
+}
+
+.align-center-spinner {
+  text-align: center; 
+  margin-top: 146px;
+}
+
+.circle-clipper .circle {
+    border-width: 6px;
+}
+
+
+
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.navbar-toggle {
+    z-index:3;
+}
+
+#icono-menu {
+    margin-left: 0px;
+}
+
+
+.titulo-item-menu {
+    background-color: #333;
+    max-height: 40px;
+    min-height: 30px
+}
+
+.titulo-item-menu .body {
+    padding-top: 10px;
+}
+
+.titulo-item-menu strong{
+    color: #bfbfbf!important;
+}
+
+#mapas .categoria .resumen {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 12pt;
+  margin-bottom: 0;
+  color: #666;
+  text-align: right;
+  padding-left: 15px;
+}
+
+.fill
+{
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    min-width: 100%;
+}
+
+.leaflet-container {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  width: 100%;
+    }
+    
+.scrollable {
+    height: 100%;
+    overflow: auto;
+}
+  
+
+.footer {
+    position: absolute!important;
+    bottom: 0!important;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 30px;
+    background-color: #044687;
+  }
+  
+.logo-quesale {
+    position: center;
+    left: -10;
+    width: 24px;
+    margin: auto;
+}
+
+.navbar img {
+    display: inline-flex;
+}
+
+.card-menu-vertical-mobile {
+    background: #333;
+}
+
+.card-menu-vertical-mobile strong {
+    font-size: 2em;
+    padding-left: 10px;
+    -webkit-text-fill-color: rgb(191, 191, 191)
+}
+
+
+.google-form {
+    width: 260px;
+    height: 335px;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.google-form iframe {
+    width: 700px;
+    height: 900px;
+    position: absolute; 
+    left: -60px; 
+    top: -330px;
+}
+
+.texto-icon-menu-lateral {
+    font-weight: bold;
+    font-size: 12px;
+    color: '#FFFFFF';
+}
+
+.panel-menu-item {
+    width:120px;
+    color: #dddddd;
+
+}
+
+.tab-content > .active {
+    padding-left: 8px;
+        margin-left: 3px;
+    padding-right: 8px;
+        margin-right: 7px;
+}
+
+
+.row-menu {
+   margin-top: 10px;
+   text-align:center;
+}
+
+.row-center {
+   text-align:center;
+}
+
+
+
+
+.panel-quienes-somos {
+    border-color: #ffc107;
+}
+
+.panel-quienes-somos > .panel-heading{
+    background-color: #ffc107;
+    color: white;
+}
+
+.panel-hoy {
+    border-color: #f44336;
+}
+
+.panel-hoy > .panel-heading{
+    background-color: #f44336;
+    color: white;
+}
+
+.panel-hoy > .panel-footer {
+        padding-top: 11px;
+        padding-bottom: 28px;
+}
+
+
+.panel-manana {
+    border-color: #cddc39;
+}
+
+.panel-manana > .panel-heading{
+    background-color: #cddc39;
+    color: white;
+    padding-top: 24px;
+    padding-bottom: 27px;
+}
+
+.panel-manana > .panel-footer{
+    /*padding-bottom: 27px;*/
+}
+
+.panel-finde {
+    border-color: #009688;
+}
+
+.panel-finde > .panel-heading{
+    background-color: #009688;
+    color: white;
+}
+
+.panel-centro-recarga {
+    border-color: #8bc34a;
+}
+
+.panel-centro-recarga > .panel-heading{
+    background-color: #8bc34a;
+    color: white;
+}
+
+.panel-sugerir-evento {
+    border-color: #795548;
+}
+
+.panel-sugerir-evento > .panel-heading{
+    background-color: #795548;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.tab-pane p.help {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.h4-blanco {
+    color: white;
+}
+
+.modal .modal-header {
+    border: black;   
+    background-color: #2196f3;
+    padding-top: 15px;
+    padding-bottom: 11px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.modal .modal-header .modal-title {
+    font-weight: bold;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+}
+
+.modal .modal-content .modal-body {
+    color: #101010;
+    text-align-last: left;    
+    padding: 15px 25px;
+    font-size: initial;
+}
+
+.bg-amber {
+    background-color: #404040!important;
+    color: #fff;
+}
+
+.titulo-grupo {
+    color: #fff;
+    font-size: 24px;
+}
+
+.titulo-grupo-tag {
+    color: black;
+    font-size: 24px;    
+    text-align: right;
+}
+
+.titulo-cervecerias {
+    color: black;
+    font-size: 24px;    
+    text-align: left;
+}
+
+.card-map-float {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    height: 50px;
+    width: 250px;
+    background: #9e9e9e;
+}
+
+
+.card-map-float > .body {
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn-circle {
+    width: 34px;
+    height: 34px;
+    padding: 5px;
+    border-radius: 18px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.42857;
+    margin-right: 12px;
+}
+
+.btn-facebook {
+    background-color: #3b5998;
+    color: white;
+}
+
+.btn-twitter {
+    background-color: #00aced;
+    color: white;
+}
+
+.btn-instagram {
+    background-color: #cd486b;
+    color: white;
+}
+
+
+.input-group input[type="text"], .input-group .form-control {
+    border: 1px solid #cccccc;
+    box-shadow: none;
+    padding-left: 0;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.input-group .input-group-addon {
+    border: 1px solid #cccccc;
+    background-color: #fff;
+    padding-left: 0;
+    font-weight: bold;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+.titulo-evento {
+    color: black;
+    font-size: 20px;
+}
+
+.card > .header-evento {    
+    font-size: 16px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: rgba(221, 221, 221, 0.48);
+    padding-bottom: 10px;
+    padding-top: 10px;        
+}
+
+
+.card > .header-evento-suspendido {    
+    font-size: 16px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: rgba(221, 221, 221, 0.48);
+    padding-bottom: 10px;
+    padding-top: 10px;        
+    background-image:url('/static/img/generic/evento_suspendido.png');
+    /*background-image:url('/static/img/generic/suspendido2.png');*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.card > .header-cervezas {    
+    font-size: 16px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: rgba(221, 221, 221, 0.48);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 1px;
+    padding-left: 10px;
+}
+
+.tamanio-seo {
+    font-size: 16px;
+}
+
+.body-evento {
+    font-size: 16px;
+    color: #555;
+    padding: 20px;
+    background-color: rgba(221, 221, 221, 0.48);
+}
+
+.col-9 > .nombre-cerveceria {
+    padding-left: 0px;
+}
+
+@media (max-width: 767px) {
+    .navbar>.container-fluid .navbar-brand {
+        margin-left: 40px;
+        width: 73%;
+    }
+
+    .sidebar {
+        width: -75px;
+    }
+    
+    .sidebar.open {
+        width: 75px;
+    }
+
+    #icono-menu {
+        margin-left: 13px;
+    }
+}
+
+@media (min-width: 10px) {
+    .mainPanel {
+        left: 0px;
+        width: 360px;
+        background-color: #404040;
+    }
+    .panel-manana > .panel-footer{
+        padding-bottom: 27px;
+    }
+    /*.panel-sugerir-evento > .panel-footer{
+        padding-bottom: 27px;
+    }*/
+    .sidebar {
+        width: 75px;
+    }
+}
+
+@media (min-width: 361px) {
+    .mainPanel {
+        left: 0px;
+        width: 386px;
+        background-color: #404040;
+    }
+
+    .panel-manana > .panel-footer{
+        padding-bottom: 10px;
+    }
+    /*.panel-sugerir-evento > .panel-footer{
+        padding-bottom: 10px;
+    }*/
+
+    .sidebar {
+        width: 75px;
+    }
+
+    .navbar>.container-fluid .navbar-brand {
+        margin-left: 40px;
+        width: 73%;
+    }
+}

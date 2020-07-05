@@ -1,0 +1,41 @@
+/*quesale_leaflet.css*/
+
+
+.leaflet-popup-content {
+    margin: 0px;
+    /*line-height: 1.4;*/
+}
+
+.leaflet-popup-content, .leaflet-popup-content-wrapper {
+    border-radius: 4px;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background: white;
+    color: #333;
+    box-shadow: -14px 9px 14px rgba(0,0,0,0.4);
+}
+
+
+.leaflet-popup-content-wrapper {
+    padding: 0px;
+    text-align: left;
+    font-size: 16px;
+    border-radius: 12px;
+}
+
+.leaflet-modal-header {
+	border: black;
+    background-color: #2196f3;
+    padding-top: 15px;
+    padding-bottom: 11px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.leaflet-modal-header > .h4-popup {
+	color: white;	
+}
+
